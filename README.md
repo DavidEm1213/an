@@ -58,7 +58,7 @@
       color: rgb(7, 2, 2);
       font-size: 20px;
       cursor: pointer;
-      align: center
+      justify-content: center;
       
     }
     
